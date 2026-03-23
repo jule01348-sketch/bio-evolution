@@ -1,0 +1,16 @@
+# Python standard ignores
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Simulation outputs
+simulation_log.txt
+simulation_stats.txt
+
+# OS files
+.DS_Store
